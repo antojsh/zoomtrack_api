@@ -1,13 +1,13 @@
 {
   "name": "api-rest",
   "version": "1.0.0",
-  "description": "Proyecto de API RESTful con Node.js y Express",
+  "description": "Proyecto de API RESTful con Node.js y Expres para ZoomTrack",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Carlos Azaustre (http://carlosazaustre.es)",
+  "author": "Atonio Sierra Hurtado",
   "license": "MIT",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
